@@ -6,8 +6,8 @@
 ![Pedrohen_g's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohen-g&show_icons=true&theme=dark)
 
 ## Linguagens De Programação
-[![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]() 
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+[![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/pedrohen-g/Java) 
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/pedrohen-g/C)
 <br>
 ### Cursando Engenharia de Computação
 
