@@ -8,7 +8,7 @@
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Henrique-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-gomes-silva-6296452b6/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Henrique-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-gomes-6296452b6/)
 
 ---
 
@@ -62,14 +62,6 @@ Meu objetivo é ingressar profissionalmente na área de desenvolvimento de softw
 - Python  
 - Arquitetura de software  
 - Boas práticas de desenvolvimento  
-
----
-
-## 📊 Estatísticas GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohen-g&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohen-g&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 ---
 
