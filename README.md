@@ -1,6 +1,6 @@
 # 👨‍💻 Pedro Henrique Gomes Silva
 
-🎓 Estudante de Engenharia de Computação (5º período) — PUC Goiás  
+🎓 Estudante de Engenharia de Computação (6º período) — PUC Goiás  
 💻 Focado em desenvolvimento backend com Java  
 🚀 Buscando oportunidades de estágio em desenvolvimento de software  
 
